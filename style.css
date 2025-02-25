@@ -1,0 +1,18 @@
+:root {
+    --background-color: #111111;
+    --text-color: #FFFFFF;
+    --font-family: "Prompt", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: var(--background-color);
+    font-family: var(--font-family);
+    color: var(--text-color);
+}
