@@ -1,3 +1,7 @@
+<div align="left">
+  <img height="60em" src="https://imgur.com/it1LiHu.png" alt="lock in logo"/>
+</div>
+
 # Lock in - Web
 
 Esse repositório se trata da versão web do sistema **Lock in**.
